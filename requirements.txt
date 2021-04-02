@@ -19,7 +19,7 @@ oauth2client
 Pillow==8.1.1
 psutil
 pybase64
-pyrogram==1.2.6
+pyrogram==1.2.4
 pySmartDL
 python-dotenv
 pytz
@@ -37,4 +37,4 @@ tgcrypto
 urbandict==0.5
 wget
 wikipedia
-youtube_dl
+git+https://gitlab.com/magneto261290/youtube-dl
