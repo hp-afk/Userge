@@ -37,4 +37,4 @@ tgcrypto
 urbandict==0.5
 wget
 wikipedia
-git+https://gitlab.com/magneto261290/youtube-dl
+youtube-dl
